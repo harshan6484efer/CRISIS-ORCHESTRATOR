@@ -1,0 +1,7 @@
+flask
+python-dotenv
+groq
+transformers
+pillow
+huggingface_hub
+torch
